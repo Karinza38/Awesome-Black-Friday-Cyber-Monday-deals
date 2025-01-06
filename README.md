@@ -1,4 +1,4 @@
- # Get Deals Alert
+  # Get Deals Alert
 
 **[Subscribe to receive new black friday deals in your email](https://app.vbout.com/subscribe-twf/f/63323)**
 
